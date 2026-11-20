@@ -22,5 +22,5 @@
             "statusBarVisibility": "hidden",
         },
     },
-    "cmake.sourceDirectory": "D:/STM32Work/Experiment2/LEDliushui",
+    "cmake.sourceDirectory": "D:/STM32Work/Experiment2/EXTI1",
 }
